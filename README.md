@@ -1,4 +1,4 @@
-### Hi, I'm Joye Mara 👋
+### Hi, I'm Joyce Mara 👋
 
 - 🔭 I’m currently working on something cool 
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, TypeScript, Next 
