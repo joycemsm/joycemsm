@@ -1,9 +1,8 @@
 Hi, I'm Joyce Mara
 
-Always building something, turning raw data into something actually useful.
+Always building something cool! 
 
-Here you'll find projects across the data stack: analysis, data science, and engineering. Data engineering is where I'm putting most of my energy, building ETL pipelines, setting up cloud infrastructure on AWS, and working with tools like Python, Glue, Athena, and S3. I'm especially interested in how data is collected, moved, stored, and made queryable at scale.
-
+Here you'll find projects across the product and data stack: analysis, data science, and engineering. 
 Open to collaborations — feel free to reach out.
 
 📫 joycemara0707@gmail.com
